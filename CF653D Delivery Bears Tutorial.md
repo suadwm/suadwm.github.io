@@ -1,6 +1,6 @@
 #### CF653D Delivery Bears Tutorial
 
-> There are $$n$$ cities, $m$ roads, and $k$ bears on a map. Each edge is from $a_i$ to $b_i$ with weight $w_i$. 
+> There are \(n\) cities, $m$ roads, and $k$ bears on a map. Each edge is from $a_i$ to $b_i$ with weight $w_i$. 
 >
 > Every bear must carry the same number of weight, marked as $d$. Each bear must choose a path from $1$ to $n$. 
 >
