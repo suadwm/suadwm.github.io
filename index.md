@@ -5,7 +5,7 @@ You can visit my previous blog here: [My CNBlogs](https://www.cnblogs.com/suadwm
 
 ### Competitive Programming
 
-- **[CF653D - Delivery Bears](cf653d_delivery_bears.html)**  
+- **[CF653D - Delivery Bears](https://suadwm.github.io/CF653D%20Delivery%20Bears%20Tutorial)**  
   A tutorial on solving the "Delivery Bears" problem using binary search and network flow.
 
 ---
