@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+
+  <!-- 引入 MathJax -->
+  <script type="text/javascript" async
+          src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+
+  <!-- 其他头部内容，比如 CSS 等 -->
+</head>
+<body>
+  <header>
+    <h1>{{ site.title }}</h1>
+    <!-- 你可以在这里添加网站导航等内容 -->
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    <!-- 页脚内容 -->
+  </footer>
+</body>
+</html>
