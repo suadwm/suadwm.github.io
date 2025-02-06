@@ -1,4 +1,4 @@
-theme: Lanyon
+theme: minima
 
 plugins:
   - jekyll-mathjax
