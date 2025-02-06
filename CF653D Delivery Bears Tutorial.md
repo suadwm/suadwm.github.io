@@ -10,7 +10,7 @@
 >
 > Print $\max(xd)$.
 >
-> $\frac{|a-b|}{\max(1,b)}\leq 10^{-6}$
+> $$\frac{|a-b|}{\max(1,b)}\leq 10^{-6}$$
 >
 > Niwel 有 $k$ 只熊，一个 $n$ 个点 $m$ 条边的图，每条边有一个最大运输重量 $w_i$ 。每只熊都负责运输同样重量的货物，重量记为 $d$。
 >
@@ -18,7 +18,7 @@
 >
 > 使得以下条件成立：$\forall i\in[1,m],\ p_i\times d\leq w_i$.
 >
-> $\frac{|a-b|}{\max(1,b)}\leq 10^{-6}$
+> $$\frac{|a-b|}{\max(1,b)}\leq 10^{-6}$$
 >
 > $2\leq n\leq 50,\ 1\leq m\leq 500,\ 1\leq k \leq 10^5,\ 1\leq w_i\leq 10^5$
 
