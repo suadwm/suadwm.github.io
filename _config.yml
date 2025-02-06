@@ -1,9 +1,4 @@
 <<<<<<< HEAD
-title: My Personal Website
-description: "This is my awesome personal website."
-baseurl: ""  # 设置为 ""，如果你将网站托管在根目录
-url: "https://suadwm.github.io"  # 替换为你的实际 GitHub 用户名
-
 plugins:
   - jekyll-mathjax
 
