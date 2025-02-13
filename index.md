@@ -4,7 +4,7 @@ Hi, my name is Xiaohan (Hannah) Yang.
 You can visit my previous blog here: [My CNBlogs](https://www.cnblogs.com/suadwm).
 
 ### Competitive Programming
-- **[CF15C - Industrial Nim](https://suadwm.github.io/CF15C%20Industrial%20Nim))**  
+- **[CF15C - Industrial Nim](https://suadwm.github.io/CF15C%20Industrial%20Nim)**  
   Game Theory. Conclusion. 
 
 - **[CF630D - Game](https://suadwm.github.io/CF630R%20Game)**  
